@@ -1,2 +1,2 @@
 # activity-schedule-PWA
-activity schedule project, PWA
+activity propose & schedule project, PWA
